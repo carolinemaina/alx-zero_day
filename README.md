@@ -1,2 +1,2 @@
 My first readme
-new update 
+new update on bash directory by update_script
